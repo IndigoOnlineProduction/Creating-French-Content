@@ -1,6 +1,6 @@
 # Creating French content
 
-## **When creating a French page ensure the English page, everything on the page and accompanying content blocks are published**
+### **When creating a French page ensure the English page, everything on the page and accompanying content blocks are published**
 
 ### If creating French content block, ensure English version is published
 
