@@ -1,8 +1,8 @@
 # Creating French content
 
-## **When creating a French page, ensure the English page, everything on the page and accompanying content blocks are published**
+## **When creating a French page ensure the English page, everything on the page and accompanying content blocks are published**
 
-## If creating French content block, ensure English version is published
+### If creating French content block, ensure English version is published
 
 ## Navigate to Extra Tools from Workarea content
 ![Image of Workarea ](https://static.indigoimages.ca/assetsexternal/navigating-to-extra_tools.jpg)
@@ -14,6 +14,8 @@
 ![Image of Extra Tools confirmation](https://static.indigoimages.ca/assetsexternal/english-to-french-confirmation.jpg)
 
 ## Copy in translated text and adjust page content as required
+
+## Bonne chance!
 
 
 
