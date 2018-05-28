@@ -1,7 +1,7 @@
 # Creating French content
 
 
-## English to French **Pages**
+## English to French *Pages*
 ### **When creating a French page ensure the English page, everything on the page and accompanying content blocks are published**
 
 ### If creating French content block, ensure English version is published
@@ -14,7 +14,7 @@
 
 ## NOTE - when creating a French page from an English page, this conversion _must be done_ in Workarea (using the Extra Tools method below will result in page corruption)
 
-## English to French **Banners**
+## English to French *Banners*
 ### **When creating a French banner ensure the English banner is published**
 
 ## Navigate to Extra Tools from Workarea content
